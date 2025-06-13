@@ -37,3 +37,5 @@ Overstocking is more of a concern for products with Low turnover or high-priced
 No strong correlation between inventory status and categories or suppliers
 
 Need for targeted adjustment of reorder levels for certain high-value products
+
+Tableau dashboard: https://public.tableau.com/views/Classeur1_17498289862140/Tableaudebord1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
